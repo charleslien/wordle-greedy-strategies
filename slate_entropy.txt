@@ -635,26 +635,26 @@ guess: slate
         guess: flask
           took 3 guesses
   6 remaining words for ybygg: ['waste', 'paste', 'caste', 'haste', 'taste', 'baste']
-    guess: cowps
-      1 remaining words for bbyby: ['waste']
-        guess: waste
-          took 3 guesses
-      1 remaining words for bbbyy: ['paste']
-        guess: paste
-          took 3 guesses
-      1 remaining words for gbbby: ['caste']
+    guess: bench
+      1 remaining words for bybyb: ['caste']
         guess: caste
           took 3 guesses
-      3 remaining words for bbbby: ['haste', 'taste', 'baste']
-        guess: blush
-          1 remaining words for bbbyy: ['haste']
-            guess: haste
+      1 remaining words for bybby: ['haste']
+        guess: haste
+          took 3 guesses
+      1 remaining words for gybbb: ['baste']
+        guess: baste
+          took 3 guesses
+      3 remaining words for bybbb: ['waste', 'paste', 'taste']
+        guess: whelp
+          1 remaining words for gbybb: ['waste']
+            guess: waste
               took 4 guesses
-          1 remaining words for bbbyb: ['taste']
+          1 remaining words for bbyby: ['paste']
+            guess: paste
+              took 4 guesses
+          1 remaining words for bbybb: ['taste']
             guess: taste
-              took 4 guesses
-          1 remaining words for gbbyb: ['baste']
-            guess: baste
               took 4 guesses
   6 remaining words for gbbgb: ['sooth', 'south', 'sixth', 'sooty', 'sixty', 'smith']
     guess: unify
@@ -909,68 +909,68 @@ guess: slate
             guess: leafy
               took 4 guesses
   10 remaining words for bybyy: ['exult', 'betel', 'dwelt', 'filet', 'towel', 'extol', 'hotel', 'motel', 'knelt', 'inlet']
-    guess: newel
-      1 remaining words for bybby: ['exult']
+    guess: wheel
+      1 remaining words for bbyby: ['exult']
         guess: exult
           took 3 guesses
-      1 remaining words for bgbgg: ['betel']
+      1 remaining words for bbygg: ['betel']
         guess: betel
           took 3 guesses
-      1 remaining words for byyby: ['dwelt']
+      1 remaining words for ybgby: ['dwelt']
         guess: dwelt
           took 3 guesses
-      1 remaining words for bbbgy: ['filet']
-        guess: filet
-          took 3 guesses
-      1 remaining words for bbggg: ['towel']
+      1 remaining words for ybbgg: ['towel']
         guess: towel
           took 3 guesses
-      1 remaining words for bybbg: ['extol']
+      1 remaining words for bbybg: ['extol']
         guess: extol
           took 3 guesses
-      1 remaining words for yybby: ['knelt']
-        guess: knelt
-          took 3 guesses
-      1 remaining words for ybbgy: ['inlet']
-        guess: inlet
-          took 3 guesses
-      2 remaining words for bbbgg: ['hotel', 'motel']
+      1 remaining words for bybgg: ['hotel']
         guess: hotel
           took 3 guesses
-          1 remaining words for bgggg: ['motel']
-            guess: motel
+      1 remaining words for bbbgg: ['motel']
+        guess: motel
+          took 3 guesses
+      1 remaining words for bbgby: ['knelt']
+        guess: knelt
+          took 3 guesses
+      2 remaining words for bbbgy: ['filet', 'inlet']
+        guess: filet
+          took 3 guesses
+          1 remaining words for byggg: ['inlet']
+            guess: inlet
               took 4 guesses
   10 remaining words for ybybg: ['masse', 'aside', 'pause', 'arise', 'amuse', 'arose', 'cause', 'abuse', 'parse', 'raise']
-    guess: rumpo
-      1 remaining words for bbybb: ['masse']
-        guess: masse
-          took 3 guesses
-      1 remaining words for bbbbb: ['aside']
+    guess: crimp
+      1 remaining words for bbgbb: ['aside']
         guess: aside
           took 3 guesses
-      1 remaining words for bybyb: ['pause']
+      1 remaining words for bbbby: ['pause']
         guess: pause
           took 3 guesses
-      1 remaining words for ybbbb: ['arise']
+      1 remaining words for bggbb: ['arise']
         guess: arise
           took 3 guesses
-      1 remaining words for byybb: ['amuse']
-        guess: amuse
-          took 3 guesses
-      1 remaining words for ybbby: ['arose']
+      1 remaining words for bgbbb: ['arose']
         guess: arose
           took 3 guesses
-      1 remaining words for ybbyb: ['parse']
-        guess: parse
-          took 3 guesses
-      1 remaining words for gbbbb: ['raise']
-        guess: raise
-          took 3 guesses
-      2 remaining words for bybbb: ['cause', 'abuse']
+      1 remaining words for gbbbb: ['cause']
         guess: cause
           took 3 guesses
-          1 remaining words for byggg: ['abuse']
-            guess: abuse
+      1 remaining words for bbbbb: ['abuse']
+        guess: abuse
+          took 3 guesses
+      1 remaining words for bybby: ['parse']
+        guess: parse
+          took 3 guesses
+      1 remaining words for bygbb: ['raise']
+        guess: raise
+          took 3 guesses
+      2 remaining words for bbbyb: ['masse', 'amuse']
+        guess: masse
+          took 3 guesses
+          1 remaining words for yybgg: ['amuse']
+            guess: amuse
               took 4 guesses
   10 remaining words for bbbgy: ['depth', 'piety', 'berth', 'jetty', 'deity', 'empty', 'hefty', 'teeth', 'tenth', 'petty']
     guess: pinch
@@ -2539,44 +2539,41 @@ guess: slate
             guess: moose
               took 4 guesses
   28 remaining words for bbgbg: ['awake', 'evade', 'grade', 'brake', 'craze', 'frame', 'agape', 'grave', 'inane', 'crave', 'grace', 'weave', 'amaze', 'grape', 'brave', 'graze', 'adage', 'aware', 'knave', 'chafe', 'drake', 'quake', 'crane', 'heave', 'drape', 'brace', 'image', 'peace']
-    guess: prick
-      1 remaining words for ybbbb: ['agape']
-        guess: agape
+    guess: drack
+      1 remaining words for yggbb: ['grade']
+        guess: grade
           took 3 guesses
-      1 remaining words for bybbb: ['aware']
-        guess: aware
-          took 3 guesses
-      1 remaining words for bbbyb: ['chafe']
-        guess: chafe
-          took 3 guesses
-      1 remaining words for gbbgb: ['peace']
-        guess: peace
-          took 3 guesses
-      2 remaining words for bgbby: ['brake', 'drake']
+      1 remaining words for bggby: ['brake']
         guess: brake
           took 3 guesses
-          1 remaining words for bgggg: ['drake']
-            guess: drake
-              took 4 guesses
-      2 remaining words for bbybb: ['inane', 'image']
-        guess: inane
+      1 remaining words for bygbb: ['aware']
+        guess: aware
           took 3 guesses
-          1 remaining words for gbgbg: ['image']
-            guess: image
+      1 remaining words for bbgyb: ['chafe']
+        guess: chafe
+          took 3 guesses
+      1 remaining words for gggby: ['drake']
+        guess: drake
+          took 3 guesses
+      1 remaining words for gggbb: ['drape']
+        guess: drape
+          took 3 guesses
+      1 remaining words for bbggb: ['peace']
+        guess: peace
+          took 3 guesses
+      2 remaining words for ybgbb: ['evade', 'adage']
+        guess: evade
+          took 3 guesses
+          1 remaining words for bbgyg: ['adage']
+            guess: adage
               took 4 guesses
-      2 remaining words for bgbgb: ['grace', 'brace']
+      2 remaining words for bgggb: ['grace', 'brace']
         guess: grace
           took 3 guesses
           1 remaining words for bgggg: ['brace']
             guess: brace
               took 4 guesses
-      2 remaining words for ygbbb: ['grape', 'drape']
-        guess: grape
-          took 3 guesses
-          1 remaining words for bgggg: ['drape']
-            guess: drape
-              took 4 guesses
-      3 remaining words for bbbby: ['awake', 'knave', 'quake']
+      3 remaining words for bbgby: ['awake', 'knave', 'quake']
         guess: awake
           took 3 guesses
           1 remaining words for bbgyg: ['knave']
@@ -2585,7 +2582,7 @@ guess: slate
           1 remaining words for bbggg: ['quake']
             guess: quake
               took 4 guesses
-      3 remaining words for bgbyb: ['craze', 'crave', 'crane']
+      3 remaining words for bggyb: ['craze', 'crave', 'crane']
         guess: naval
           1 remaining words for bybbb: ['craze']
             guess: craze
@@ -2596,39 +2593,40 @@ guess: slate
           1 remaining words for yybbb: ['crane']
             guess: crane
               took 4 guesses
-      5 remaining words for bbbbb: ['evade', 'weave', 'amaze', 'adage', 'heave']
-        guess: tweed
-          1 remaining words for bbyyy: ['evade']
-            guess: evade
-              took 4 guesses
-          1 remaining words for byyyb: ['weave']
-            guess: weave
-              took 4 guesses
-          1 remaining words for bbybb: ['amaze']
-            guess: amaze
-              took 4 guesses
-          1 remaining words for bbyby: ['adage']
-            guess: adage
-              took 4 guesses
-          1 remaining words for bbyyb: ['heave']
-            guess: heave
-              took 4 guesses
-      5 remaining words for bgbbb: ['grade', 'frame', 'grave', 'brave', 'graze']
-        guess: gived
-          1 remaining words for gbbyy: ['grade']
-            guess: grade
-              took 4 guesses
-          1 remaining words for bbbyb: ['frame']
+      5 remaining words for bggbb: ['frame', 'grave', 'grape', 'brave', 'graze']
+        guess: grave
+          took 3 guesses
+          1 remaining words for bggbg: ['frame']
             guess: frame
               took 4 guesses
-          1 remaining words for gbyyb: ['grave']
-            guess: grave
-              took 4 guesses
-          1 remaining words for bbyyb: ['brave']
+          1 remaining words for bgggg: ['brave']
             guess: brave
               took 4 guesses
-          1 remaining words for gbbyb: ['graze']
-            guess: graze
+          2 remaining words for gggbg: ['grape', 'graze']
+            guess: grape
+              took 4 guesses
+              1 remaining words for gggbg: ['graze']
+                guess: graze
+                  took 5 guesses
+      6 remaining words for bbgbb: ['agape', 'inane', 'weave', 'amaze', 'heave', 'image']
+        guess: might
+          1 remaining words for bbybb: ['agape']
+            guess: agape
+              took 4 guesses
+          1 remaining words for bybbb: ['inane']
+            guess: inane
+              took 4 guesses
+          1 remaining words for bbbbb: ['weave']
+            guess: weave
+              took 4 guesses
+          1 remaining words for ybbbb: ['amaze']
+            guess: amaze
+              took 4 guesses
+          1 remaining words for bbbyb: ['heave']
+            guess: heave
+              took 4 guesses
+          1 remaining words for yyybb: ['image']
+            guess: image
               took 4 guesses
   28 remaining words for gbbby: ['sower', 'seedy', 'spend', 'surer', 'sever', 'sheen', 'siren', 'sweep', 'shied', 'speck', 'sheik', 'seven', 'serum', 'sneer', 'super', 'speed', 'shrew', 'sober', 'semen', 'screw', 'sewer', 'sperm', 'sheer', 'sinew', 'skier', 'sheep', 'serif', 'spied']
     guess: hewer
@@ -5647,418 +5645,422 @@ guess: slate
                 guess: price
                   took 5 guesses
   136 remaining words for bbybb: ['cigar', 'karma', 'major', 'marry', 'croak', 'maxim', 'parry', 'gamma', 'briar', 'gaudy', 'vodka', 'radio', 'favor', 'panic', 'agora', 'aroma', 'harry', 'comma', 'foray', 'cargo', 'hairy', 'canny', 'bayou', 'manor', 'apron', 'cacao', 'gawky', 'madam', 'augur', 'wacky', 'angry', 'aphid', 'dandy', 'carry', 'fanny', 'rainy', 'daddy', 'aging', 'mocha', 'pagan', 'human', 'manga', 'groan', 'fairy', 'ardor', 'nanny', 'handy', 'ninja', 'vapor', 'acorn', 'aping', 'mania', 'borax', 'china', 'rabid', 'caddy', 'magic', 'macaw', 'candy', 'march', 'arbor', 'hardy', 'razor', 'wagon', 'cabin', 'fancy', 'friar', 'dairy', 'among', 'rabbi', 'agony', 'urban', 'rajah', 'gonad', 'adorn', 'mafia', 'array', 'vapid', 'acrid', 'mayor', 'randy', 'radar', 'canon', 'pizza', 'baggy', 'mammy', 'nadir', 'havoc', 'annoy', 'kappa', 'bawdy', 'radii', 'dogma', 'nomad', 'cocoa', 'mango', 'rumba', 'audio', 'manic', 'admin', 'macho', 'harpy', 'cairn', 'broad', 'axiom', 'armor', 'jazzy', 'arrow', 'vicar', 'cobra', 'macro', 'baron', 'bacon', 'umbra', 'avian', 'parka', 'avoid', 'circa', 'paddy', 'mambo', 'affix', 'abhor', 'kayak', 'banjo', 'axion', 'ranch', 'mamma', 'cabby', 'magma', 'woman', 'rapid', 'fauna', 'happy', 'mangy', 'organ', 'rayon']
-    guess: minor
-      1 remaining words for ybbbb: ['gamma']
-        guess: gamma
-          took 3 guesses
-      1 remaining words for bybyy: ['radio']
-        guess: radio
-          took 3 guesses
-      1 remaining words for bygbb: ['panic']
-        guess: panic
-          took 3 guesses
-      1 remaining words for ybbyy: ['aroma']
-        guess: aroma
-          took 3 guesses
-      1 remaining words for gbggg: ['manor']
-        guess: manor
-          took 3 guesses
-      1 remaining words for ybybb: ['human']
-        guess: human
-          took 3 guesses
-      1 remaining words for bggbb: ['ninja']
-        guess: ninja
-          took 3 guesses
-      1 remaining words for bbyyb: ['agony']
-        guess: agony
-          took 3 guesses
-      1 remaining words for bgbbb: ['pizza']
-        guess: pizza
-          took 3 guesses
-      1 remaining words for byybg: ['nadir']
-        guess: nadir
-          took 3 guesses
-      1 remaining words for gbgyb: ['mango']
-        guess: mango
-          took 3 guesses
-      1 remaining words for yyybb: ['admin']
-        guess: admin
-          took 3 guesses
-      1 remaining words for yybgb: ['axiom']
-        guess: axiom
-          took 3 guesses
-      1 remaining words for ybbgg: ['armor']
-        guess: armor
-          took 3 guesses
-      1 remaining words for bbbgy: ['arrow']
-        guess: arrow
-          took 3 guesses
-      1 remaining words for gbbyy: ['macro']
-        guess: macro
-          took 3 guesses
-      1 remaining words for bgbby: ['circa']
-        guess: circa
-          took 3 guesses
-      1 remaining words for byygb: ['axion']
-        guess: axion
-          took 3 guesses
-      2 remaining words for bgbbg: ['cigar', 'vicar']
+    guess: caron
+      1 remaining words for gyybb: ['cigar']
         guess: cigar
           took 3 guesses
-          1 remaining words for ygbgg: ['vicar']
-            guess: vicar
-              took 4 guesses
-      2 remaining words for gbbgg: ['major', 'mayor']
-        guess: major
+      1 remaining words for bgyyb: ['radio']
+        guess: radio
           took 3 guesses
-          1 remaining words for ggbgg: ['mayor']
-            guess: mayor
-              took 4 guesses
-      2 remaining words for gbbby: ['marry', 'march']
-        guess: marry
-          took 3 guesses
-          1 remaining words for gggbb: ['march']
-            guess: march
-              took 4 guesses
-      2 remaining words for bybbg: ['briar', 'friar']
-        guess: briar
-          took 3 guesses
-          1 remaining words for bgggg: ['friar']
-            guess: friar
-              took 4 guesses
-      2 remaining words for bbbyb: ['vodka', 'cacao']
-        guess: vodka
-          took 3 guesses
-          1 remaining words for bybby: ['cacao']
-            guess: cacao
-              took 4 guesses
-      2 remaining words for ybbyb: ['comma', 'dogma']
+      1 remaining words for gybyb: ['comma']
         guess: comma
           took 3 guesses
-          1 remaining words for bgbgg: ['dogma']
-            guess: dogma
-              took 4 guesses
-      2 remaining words for bbbbg: ['augur', 'radar']
-        guess: augur
+      1 remaining words for gggyb: ['cargo']
+        guess: cargo
           took 3 guesses
-          1 remaining words for ybbbg: ['radar']
-            guess: radar
-              took 4 guesses
-      2 remaining words for bbyby: ['angry', 'urban']
-        guess: angry
-          took 3 guesses
-          1 remaining words for yybyb: ['urban']
-            guess: urban
-              took 4 guesses
-      2 remaining words for byyby: ['rainy', 'cairn']
-        guess: rainy
-          took 3 guesses
-          1 remaining words for yggyb: ['cairn']
-            guess: cairn
-              took 4 guesses
-      2 remaining words for bbybb: ['pagan', 'fauna']
-        guess: pagan
-          took 3 guesses
-          1 remaining words for bgbyy: ['fauna']
-            guess: fauna
-              took 4 guesses
-      2 remaining words for gbgbb: ['manga', 'mangy']
-        guess: manga
-          took 3 guesses
-          1 remaining words for ggggb: ['mangy']
-            guess: mangy
-              took 4 guesses
-      2 remaining words for gygbb: ['mania', 'manic']
-        guess: mania
-          took 3 guesses
-          1 remaining words for ggggb: ['manic']
-            guess: manic
-              took 4 guesses
-      2 remaining words for bbygb: ['wagon', 'bacon']
-        guess: wagon
-          took 3 guesses
-          1 remaining words for bgbgg: ['bacon']
-            guess: bacon
-              took 4 guesses
-      2 remaining words for bbgyb: ['gonad', 'banjo']
-        guess: gonad
-          took 3 guesses
-          1 remaining words for bygyb: ['banjo']
-            guess: banjo
-              took 4 guesses
-      2 remaining words for bbgby: ['randy', 'ranch']
-        guess: randy
-          took 3 guesses
-          1 remaining words for gggbb: ['ranch']
-            guess: ranch
-              took 4 guesses
-      2 remaining words for bbggb: ['canon', 'annoy']
-        guess: canon
-          took 3 guesses
-          1 remaining words for byggy: ['annoy']
-            guess: annoy
-              took 4 guesses
-      2 remaining words for bybyb: ['audio', 'avoid']
-        guess: audio
-          took 3 guesses
-          1 remaining words for gbygy: ['avoid']
-            guess: avoid
-              took 4 guesses
-      3 remaining words for ybbby: ['karma', 'rumba', 'umbra']
-        guess: rumba
-          took 3 guesses
-          1 remaining words for ybybg: ['karma']
-            guess: karma
-              took 4 guesses
-          1 remaining words for yyyyg: ['umbra']
-            guess: umbra
-              took 4 guesses
-      3 remaining words for gybbb: ['maxim', 'magic', 'mafia']
-        guess: focal
-          1 remaining words for bbbyb: ['maxim']
-            guess: maxim
-              took 4 guesses
-          1 remaining words for bbyyb: ['magic']
-            guess: magic
-              took 4 guesses
-          1 remaining words for ybbyb: ['mafia']
-            guess: mafia
-              took 4 guesses
-      3 remaining words for bbbgb: ['bayou', 'havoc', 'cocoa']
+      1 remaining words for bgbgb: ['bayou']
         guess: bayou
           took 3 guesses
-          1 remaining words for bgbgb: ['havoc']
-            guess: havoc
-              took 4 guesses
-          1 remaining words for bybgb: ['cocoa']
-            guess: cocoa
-              took 4 guesses
-      3 remaining words for bbygy: ['apron', 'baron', 'rayon']
+      1 remaining words for bgygy: ['manor']
+        guess: manor
+          took 3 guesses
+      1 remaining words for byggg: ['apron']
         guess: apron
           took 3 guesses
-          1 remaining words for ybggg: ['baron']
-            guess: baron
+      1 remaining words for ggbyb: ['cacao']
+        guess: cacao
+          took 3 guesses
+      1 remaining words for byyby: ['angry']
+        guess: angry
+          took 3 guesses
+      1 remaining words for gggbb: ['carry']
+        guess: carry
+          took 3 guesses
+      1 remaining words for yybyb: ['mocha']
+        guess: mocha
+          took 3 guesses
+      1 remaining words for bgbbg: ['pagan']
+        guess: pagan
+          took 3 guesses
+      1 remaining words for yyyyg: ['acorn']
+        guess: acorn
+          took 3 guesses
+      1 remaining words for gybby: ['china']
+        guess: china
+          took 3 guesses
+      1 remaining words for yggbb: ['march']
+        guess: march
+          took 3 guesses
+      1 remaining words for bgbgg: ['wagon']
+        guess: wagon
+          took 3 guesses
+      1 remaining words for ggbbg: ['cabin']
+        guess: cabin
+          took 3 guesses
+      1 remaining words for byybg: ['urban']
+        guess: urban
+          took 3 guesses
+      1 remaining words for bygbb: ['array']
+        guess: array
+          took 3 guesses
+      1 remaining words for yygbb: ['acrid']
+        guess: acrid
+          took 3 guesses
+      1 remaining words for ggbgg: ['canon']
+        guess: canon
+          took 3 guesses
+      1 remaining words for ygbgb: ['havoc']
+        guess: havoc
+          took 3 guesses
+      1 remaining words for bybgy: ['annoy']
+        guess: annoy
+          took 3 guesses
+      1 remaining words for gybgb: ['cocoa']
+        guess: cocoa
+          took 3 guesses
+      1 remaining words for ygbyb: ['macho']
+        guess: macho
+          took 3 guesses
+      1 remaining words for ggybg: ['cairn']
+        guess: cairn
+          took 3 guesses
+      1 remaining words for bybgb: ['axiom']
+        guess: axiom
+          took 3 guesses
+      1 remaining words for byggb: ['arrow']
+        guess: arrow
+          took 3 guesses
+      1 remaining words for yyybb: ['vicar']
+        guess: vicar
+          took 3 guesses
+      1 remaining words for ygyyb: ['macro']
+        guess: macro
+          took 3 guesses
+      1 remaining words for bgggg: ['baron']
+        guess: baron
+          took 3 guesses
+      1 remaining words for ygbgg: ['bacon']
+        guess: bacon
+          took 3 guesses
+      1 remaining words for gygbb: ['circa']
+        guess: circa
+          took 3 guesses
+      1 remaining words for bgbyb: ['mambo']
+        guess: mambo
+          took 3 guesses
+      1 remaining words for bybgg: ['axion']
+        guess: axion
+          took 3 guesses
+      1 remaining words for ygyby: ['ranch']
+        guess: ranch
+          took 3 guesses
+      1 remaining words for bybyg: ['woman']
+        guess: woman
+          took 3 guesses
+      1 remaining words for bgygg: ['rayon']
+        guess: rayon
+          took 3 guesses
+      2 remaining words for gyyyb: ['croak', 'cobra']
+        guess: croak
+          took 3 guesses
+          1 remaining words for gyyyb: ['cobra']
+            guess: cobra
               took 4 guesses
-          1 remaining words for ybygg: ['rayon']
-            guess: rayon
+      2 remaining words for bygyb: ['foray', 'borax']
+        guess: foray
+          took 3 guesses
+          1 remaining words for bgggb: ['borax']
+            guess: borax
               took 4 guesses
-      3 remaining words for bybbb: ['aphid', 'vapid', 'affix']
+      2 remaining words for ggbby: ['canny', 'candy']
+        guess: canny
+          took 3 guesses
+          1 remaining words for gggbg: ['candy']
+            guess: candy
+              took 4 guesses
+      2 remaining words for ggbbb: ['caddy', 'cabby']
+        guess: caddy
+          took 3 guesses
+          1 remaining words for ggbbg: ['cabby']
+            guess: cabby
+              took 4 guesses
+      2 remaining words for bgbyy: ['mango', 'banjo']
+        guess: mango
+          took 3 guesses
+          1 remaining words for bggbg: ['banjo']
+            guess: banjo
+              took 4 guesses
+      3 remaining words for ygbby: ['panic', 'fancy', 'manic']
+        guess: panic
+          took 3 guesses
+          1 remaining words for bggby: ['fancy']
+            guess: fancy
+              took 4 guesses
+          1 remaining words for bgggg: ['manic']
+            guess: manic
+              took 4 guesses
+      3 remaining words for byyyb: ['agora', 'aroma', 'broad']
+        guess: agora
+          took 3 guesses
+          1 remaining words for gbgyg: ['aroma']
+            guess: aroma
+              took 4 guesses
+          1 remaining words for ybgyb: ['broad']
+            guess: broad
+              took 4 guesses
+      3 remaining words for ygbbb: ['wacky', 'magic', 'macaw']
+        guess: wacky
+          took 3 guesses
+          1 remaining words for bgybb: ['magic']
+            guess: magic
+              took 4 guesses
+          1 remaining words for yggbb: ['macaw']
+            guess: macaw
+              took 4 guesses
+      3 remaining words for bybbb: ['aphid', 'pizza', 'affix']
         guess: aphid
           took 3 guesses
-          1 remaining words for yybgg: ['vapid']
-            guess: vapid
+          1 remaining words for yybyb: ['pizza']
+            guess: pizza
               took 4 guesses
           1 remaining words for gbbgb: ['affix']
             guess: affix
               took 4 guesses
-      3 remaining words for gbbyb: ['mocha', 'macho', 'mambo']
-        guess: mocha
+      3 remaining words for bgyby: ['rainy', 'randy', 'nadir']
+        guess: rainy
           took 3 guesses
-          1 remaining words for gyggy: ['macho']
-            guess: macho
+          1 remaining words for ggbyg: ['randy']
+            guess: randy
               took 4 guesses
-          1 remaining words for gybby: ['mambo']
-            guess: mambo
+          1 remaining words for ygyyb: ['nadir']
+            guess: nadir
               took 4 guesses
-      3 remaining words for ybyyb: ['among', 'nomad', 'woman']
-        guess: nomad
-          took 3 guesses
-          1 remaining words for yyyyb: ['among']
-            guess: among
-              took 4 guesses
-          1 remaining words for ygggb: ['woman']
-            guess: woman
-              took 4 guesses
-      4 remaining words for bbyyy: ['groan', 'acorn', 'adorn', 'organ']
-        guess: acorn
-          took 3 guesses
-          1 remaining words for ybgyg: ['groan']
-            guess: groan
-              took 4 guesses
-          1 remaining words for gbggg: ['adorn']
-            guess: adorn
-              took 4 guesses
-          1 remaining words for ybyyg: ['organ']
-            guess: organ
-              took 4 guesses
-      5 remaining words for gbbbb: ['madam', 'macaw', 'mammy', 'mamma', 'magma']
-        guess: mammy
-          took 3 guesses
-          1 remaining words for ggybb: ['madam']
-            guess: madam
-              took 4 guesses
-          1 remaining words for ggbbb: ['macaw']
-            guess: macaw
-              took 4 guesses
-          1 remaining words for ggggb: ['mamma']
-            guess: mamma
-              took 4 guesses
-          1 remaining words for ggbgb: ['magma']
-            guess: magma
-              took 4 guesses
-      5 remaining words for byybb: ['aging', 'aping', 'china', 'cabin', 'avian']
+      3 remaining words for bybby: ['aging', 'ninja', 'aping']
         guess: aging
           took 3 guesses
+          1 remaining words for ybyyb: ['ninja']
+            guess: ninja
+              took 4 guesses
           1 remaining words for gbggg: ['aping']
             guess: aping
               took 4 guesses
-          1 remaining words for ybggb: ['china']
-            guess: china
+      3 remaining words for bybbg: ['human', 'admin', 'avian']
+        guess: human
+          took 3 guesses
+          1 remaining words for bbgyg: ['admin']
+            guess: admin
               took 4 guesses
-          1 remaining words for ybyyb: ['cabin']
-            guess: cabin
-              took 4 guesses
-          1 remaining words for gbgyb: ['avian']
+          1 remaining words for bbbgg: ['avian']
             guess: avian
               took 4 guesses
-      6 remaining words for bbbgg: ['favor', 'ardor', 'vapor', 'arbor', 'razor', 'abhor']
-        guess: vozhd
-          1 remaining words for yybbb: ['favor']
-            guess: favor
+      3 remaining words for byyyg: ['groan', 'adorn', 'organ']
+        guess: groan
+          took 3 guesses
+          1 remaining words for bygyg: ['adorn']
+            guess: adorn
               took 4 guesses
-          1 remaining words for bybby: ['ardor']
+          1 remaining words for ygygg: ['organ']
+            guess: organ
+              took 4 guesses
+      4 remaining words for bybyb: ['vodka', 'dogma', 'audio', 'avoid']
+        guess: vodka
+          took 3 guesses
+          1 remaining words for bgybg: ['dogma']
+            guess: dogma
+              took 4 guesses
+          1 remaining words for bygby: ['audio']
+            guess: audio
+              took 4 guesses
+          1 remaining words for yyyby: ['avoid']
+            guess: avoid
+              took 4 guesses
+      4 remaining words for byygb: ['ardor', 'arbor', 'armor', 'abhor']
+        guess: thumb
+          1 remaining words for bbbbb: ['ardor']
             guess: ardor
               took 4 guesses
-          1 remaining words for gybbb: ['vapor']
-            guess: vapor
-              took 4 guesses
-          1 remaining words for bybbb: ['arbor']
+          1 remaining words for bbbby: ['arbor']
             guess: arbor
               took 4 guesses
-          1 remaining words for bygbb: ['razor']
-            guess: razor
+          1 remaining words for bbbyb: ['armor']
+            guess: armor
               took 4 guesses
-          1 remaining words for bybyb: ['abhor']
+          1 remaining words for bybby: ['abhor']
             guess: abhor
               took 4 guesses
-      7 remaining words for bbbyy: ['croak', 'agora', 'foray', 'cargo', 'borax', 'broad', 'cobra']
-        guess: borax
+      4 remaining words for bybyy: ['among', 'agony', 'gonad', 'nomad']
+        guess: among
           took 3 guesses
-          1 remaining words for byygb: ['croak']
-            guess: croak
+          1 remaining words for gbggy: ['agony']
+            guess: agony
               took 4 guesses
-          1 remaining words for byyyb: ['agora']
-            guess: agora
+          1 remaining words for ybyyy: ['gonad']
+            guess: gonad
               took 4 guesses
-          1 remaining words for bgggb: ['foray']
-            guess: foray
+          1 remaining words for yyyyb: ['nomad']
+            guess: nomad
               took 4 guesses
-          1 remaining words for bygyb: ['cargo']
-            guess: cargo
+      5 remaining words for bgygb: ['major', 'favor', 'vapor', 'razor', 'mayor']
+        guess: jivey
+          1 remaining words for ybbbb: ['major']
+            guess: major
               took 4 guesses
-          1 remaining words for gyygb: ['broad']
-            guess: broad
+          1 remaining words for bbgbb: ['favor']
+            guess: favor
               took 4 guesses
-          1 remaining words for ygyyb: ['cobra']
-            guess: cobra
+          1 remaining words for bbybb: ['vapor']
+            guess: vapor
               took 4 guesses
-      7 remaining words for bbgbb: ['canny', 'dandy', 'fanny', 'nanny', 'handy', 'candy', 'fancy']
-        guess: decaf
-          1 remaining words for bbyyb: ['canny']
-            guess: canny
+          1 remaining words for bbbbb: ['razor']
+            guess: razor
               took 4 guesses
-          1 remaining words for gbbyb: ['dandy']
-            guess: dandy
+          1 remaining words for bbbby: ['mayor']
+            guess: mayor
               took 4 guesses
-          1 remaining words for bbbyy: ['fanny']
-            guess: fanny
-              took 4 guesses
-          1 remaining words for bbbyb: ['nanny']
-            guess: nanny
-              took 4 guesses
-          1 remaining words for ybbyb: ['handy']
-            guess: handy
-              took 4 guesses
-          1 remaining words for ybyyb: ['candy']
-            guess: candy
-              took 4 guesses
-          1 remaining words for bbyyy: ['fancy']
-            guess: fancy
-              took 4 guesses
-      8 remaining words for bbbby: ['parry', 'harry', 'carry', 'hardy', 'rajah', 'array', 'harpy', 'parka']
-        guess: parry
+      5 remaining words for byybb: ['briar', 'augur', 'friar', 'rumba', 'umbra']
+        guess: rumba
           took 3 guesses
-          1 remaining words for bggbg: ['hardy']
-            guess: hardy
+          1 remaining words for ybbyy: ['briar']
+            guess: briar
               took 4 guesses
-          1 remaining words for bgybb: ['rajah']
-            guess: rajah
+          1 remaining words for ygbby: ['augur']
+            guess: augur
               took 4 guesses
-          1 remaining words for bygyg: ['array']
-            guess: array
+          1 remaining words for ybbby: ['friar']
+            guess: friar
               took 4 guesses
-          1 remaining words for yggbg: ['harpy']
-            guess: harpy
+          1 remaining words for yyyyg: ['umbra']
+            guess: umbra
               took 4 guesses
-          1 remaining words for gggbb: ['parka']
-            guess: parka
+      7 remaining words for bggbb: ['karma', 'marry', 'parry', 'harry', 'hardy', 'harpy', 'parka']
+        guess: dumpy
+          1 remaining words for bbybb: ['karma']
+            guess: karma
               took 4 guesses
-          2 remaining words for bgggg: ['harry', 'carry']
+          1 remaining words for bbybg: ['marry']
+            guess: marry
+              took 4 guesses
+          1 remaining words for bbbyg: ['parry']
+            guess: parry
+              took 4 guesses
+          1 remaining words for bbbbg: ['harry']
             guess: harry
               took 4 guesses
-              1 remaining words for bgggg: ['carry']
-                guess: carry
+          1 remaining words for ybbbg: ['hardy']
+            guess: hardy
+              took 4 guesses
+          1 remaining words for bbbgg: ['harpy']
+            guess: harpy
+              took 4 guesses
+          1 remaining words for bbbyb: ['parka']
+            guess: parka
+              took 4 guesses
+      8 remaining words for bgbby: ['dandy', 'fanny', 'manga', 'nanny', 'handy', 'mania', 'fauna', 'mangy']
+        guess: dying
+          1 remaining words for gybyb: ['dandy']
+            guess: dandy
+              took 4 guesses
+          1 remaining words for bbbyy: ['manga']
+            guess: manga
+              took 4 guesses
+          1 remaining words for yybyb: ['handy']
+            guess: handy
+              took 4 guesses
+          1 remaining words for bbyyb: ['mania']
+            guess: mania
+              took 4 guesses
+          1 remaining words for bbbgb: ['fauna']
+            guess: fauna
+              took 4 guesses
+          1 remaining words for bybyy: ['mangy']
+            guess: mangy
+              took 4 guesses
+          2 remaining words for bybgb: ['fanny', 'nanny']
+            guess: fanny
+              took 4 guesses
+              1 remaining words for bgggg: ['nanny']
+                guess: nanny
                   took 5 guesses
-      8 remaining words for bybby: ['hairy', 'fairy', 'rabid', 'dairy', 'rabbi', 'acrid', 'radii', 'rapid']
-        guess: rabid
-          took 3 guesses
-          1 remaining words for ygbyy: ['dairy']
-            guess: dairy
-              took 4 guesses
-          1 remaining words for gggyb: ['rabbi']
-            guess: rabbi
-              took 4 guesses
-          1 remaining words for yybgg: ['acrid']
-            guess: acrid
-              took 4 guesses
-          1 remaining words for ggbgy: ['radii']
-            guess: radii
-              took 4 guesses
-          1 remaining words for ggbgg: ['rapid']
-            guess: rapid
-              took 4 guesses
-          2 remaining words for ygbyb: ['hairy', 'fairy']
+      9 remaining words for bgybb: ['hairy', 'fairy', 'rabid', 'dairy', 'rabbi', 'rajah', 'radar', 'radii', 'rapid']
+        guess: bifid
+          1 remaining words for bybbb: ['hairy']
             guess: hairy
               took 4 guesses
-              1 remaining words for bgggg: ['fairy']
-                guess: fairy
-                  took 5 guesses
-      13 remaining words for bbbbb: ['gaudy', 'gawky', 'wacky', 'daddy', 'caddy', 'baggy', 'kappa', 'bawdy', 'jazzy', 'paddy', 'kayak', 'cabby', 'happy']
-        guess: cadgy
-          1 remaining words for bgyyg: ['gaudy']
+          1 remaining words for byybb: ['fairy']
+            guess: fairy
+              took 4 guesses
+          1 remaining words for ybbgg: ['rabid']
+            guess: rabid
+              took 4 guesses
+          1 remaining words for bybby: ['dairy']
+            guess: dairy
+              took 4 guesses
+          1 remaining words for yybbb: ['rabbi']
+            guess: rabbi
+              took 4 guesses
+          1 remaining words for bbbbb: ['rajah']
+            guess: rajah
+              took 4 guesses
+          1 remaining words for bbbby: ['radar']
+            guess: radar
+              took 4 guesses
+          1 remaining words for bybgy: ['radii']
+            guess: radii
+              took 4 guesses
+          1 remaining words for bbbgg: ['rapid']
+            guess: rapid
+              took 4 guesses
+      18 remaining words for bgbbb: ['maxim', 'gamma', 'gaudy', 'gawky', 'madam', 'daddy', 'mafia', 'vapid', 'baggy', 'mammy', 'kappa', 'bawdy', 'jazzy', 'paddy', 'kayak', 'mamma', 'magma', 'happy']
+        guess: midgy
+          1 remaining words for ybbyb: ['gamma']
+            guess: gamma
+              took 4 guesses
+          1 remaining words for bbyyg: ['gaudy']
             guess: gaudy
               took 4 guesses
-          1 remaining words for bgbyg: ['gawky']
+          1 remaining words for bbbyg: ['gawky']
             guess: gawky
               took 4 guesses
-          1 remaining words for ygbbg: ['wacky']
-            guess: wacky
+          1 remaining words for gbgbb: ['madam']
+            guess: madam
               took 4 guesses
-          1 remaining words for gggbg: ['caddy']
-            guess: caddy
+          1 remaining words for byybb: ['vapid']
+            guess: vapid
               took 4 guesses
-          1 remaining words for bgbgg: ['baggy']
+          1 remaining words for bbbgg: ['baggy']
             guess: baggy
               took 4 guesses
-          1 remaining words for bgbbb: ['kappa']
+          1 remaining words for gbbbg: ['mammy']
+            guess: mammy
+              took 4 guesses
+          1 remaining words for bbbbb: ['kappa']
             guess: kappa
               took 4 guesses
-          1 remaining words for bgybg: ['bawdy']
+          1 remaining words for bbybg: ['bawdy']
             guess: bawdy
               took 4 guesses
-          1 remaining words for bgbby: ['kayak']
+          1 remaining words for bbbby: ['kayak']
             guess: kayak
               took 4 guesses
-          1 remaining words for ggbbg: ['cabby']
-            guess: cabby
+          1 remaining words for gbbbb: ['mamma']
+            guess: mamma
               took 4 guesses
-          2 remaining words for bggbg: ['daddy', 'paddy']
+          1 remaining words for gbbyb: ['magma']
+            guess: magma
+              took 4 guesses
+          2 remaining words for gybbb: ['maxim', 'mafia']
+            guess: maxim
+              took 4 guesses
+              1 remaining words for ggbgb: ['mafia']
+                guess: mafia
+                  took 5 guesses
+          2 remaining words for bbgbg: ['daddy', 'paddy']
             guess: daddy
               took 4 guesses
               1 remaining words for bgggg: ['paddy']
                 guess: paddy
                   took 5 guesses
-          2 remaining words for bgbbg: ['jazzy', 'happy']
+          2 remaining words for bbbbg: ['jazzy', 'happy']
             guess: jazzy
               took 4 guesses
               1 remaining words for bgbbg: ['happy']
@@ -6413,25 +6415,27 @@ guess: slate
             guess: coven
               took 4 guesses
       7 remaining words for bgbgg: ['fixer', 'fiber', 'river', 'giver', 'piper', 'riper', 'viper']
-        guess: river
-          took 3 guesses
-          1 remaining words for bgggg: ['giver']
-            guess: giver
+        guess: prove
+          1 remaining words for gybby: ['piper']
+            guess: piper
               took 4 guesses
-          1 remaining words for ggbgg: ['riper']
+          1 remaining words for yybby: ['riper']
             guess: riper
               took 4 guesses
-          1 remaining words for bgygg: ['viper']
+          1 remaining words for yybyy: ['viper']
             guess: viper
               took 4 guesses
-          3 remaining words for bgbgg: ['fixer', 'fiber', 'piper']
+          2 remaining words for bybby: ['fixer', 'fiber']
             guess: fixer
               took 4 guesses
               1 remaining words for ggbgg: ['fiber']
                 guess: fiber
                   took 5 guesses
-              1 remaining words for bgbgg: ['piper']
-                guess: piper
+          2 remaining words for bybyy: ['river', 'giver']
+            guess: river
+              took 4 guesses
+              1 remaining words for bgggg: ['giver']
+                guess: giver
                   took 5 guesses
       7 remaining words for bbbyb: ['epoch', 'epoxy', 'beech', 'geeky', 'check', 'beefy', 'gecko']
         guess: beech
@@ -6487,99 +6491,97 @@ guess: slate
                 guess: jerky
                   took 5 guesses
       29 remaining words for bbbgg: ['wooer', 'hyper', 'fewer', 'foyer', 'homer', 'power', 'poker', 'queer', 'freer', 'rover', 'cover', 'joker', 'buyer', 'cyber', 'offer', 'boxer', 'ember', 'hover', 'upper', 'mover', 'refer', 'cheer', 'fever', 'purer', 'cower', 'corer', 'mower', 'roger', 'rower']
-        guess: worry
-          1 remaining words for ggybb: ['wooer']
+        guess: whomp
+          1 remaining words for gbgbb: ['wooer']
             guess: wooer
               took 4 guesses
-          1 remaining words for ybybb: ['fewer']
-            guess: fewer
-              took 4 guesses
-          1 remaining words for bgyby: ['foyer']
-            guess: foyer
-              took 4 guesses
-          1 remaining words for byybb: ['offer']
-            guess: offer
-              took 4 guesses
-          1 remaining words for bbgyb: ['purer']
-            guess: purer
-              took 4 guesses
-          1 remaining words for bggyb: ['corer']
-            guess: corer
-              took 4 guesses
-          1 remaining words for ygyyb: ['rower']
-            guess: rower
-              took 4 guesses
-          2 remaining words for bbyyb: ['freer', 'refer']
-            guess: freer
-              took 4 guesses
-              1 remaining words for yyygg: ['refer']
-                guess: refer
-                  took 5 guesses
-          2 remaining words for bgyyb: ['rover', 'roger']
-            guess: rover
-              took 4 guesses
-              1 remaining words for ggbgg: ['roger']
-                guess: roger
-                  took 5 guesses
-          3 remaining words for bbyby: ['hyper', 'buyer', 'cyber']
+          1 remaining words for bybby: ['hyper']
             guess: hyper
               took 4 guesses
-              1 remaining words for bybgg: ['buyer']
-                guess: buyer
+          1 remaining words for ybbbb: ['fewer']
+            guess: fewer
+              took 4 guesses
+          1 remaining words for byyyb: ['homer']
+            guess: homer
+              took 4 guesses
+          1 remaining words for ybyby: ['power']
+            guess: power
+              took 4 guesses
+          1 remaining words for bbyby: ['poker']
+            guess: poker
+              took 4 guesses
+          1 remaining words for bbbyb: ['ember']
+            guess: ember
+              took 4 guesses
+          1 remaining words for byybb: ['hover']
+            guess: hover
+              took 4 guesses
+          1 remaining words for bbyyb: ['mover']
+            guess: mover
+              took 4 guesses
+          1 remaining words for bgbbb: ['cheer']
+            guess: cheer
+              took 4 guesses
+          1 remaining words for ybyyb: ['mower']
+            guess: mower
+              took 4 guesses
+          2 remaining words for bbbby: ['upper', 'purer']
+            guess: upper
+              took 4 guesses
+              1 remaining words for yybgg: ['purer']
+                guess: purer
                   took 5 guesses
-              1 remaining words for bgbgg: ['cyber']
-                guess: cyber
+          2 remaining words for ybybb: ['cower', 'rower']
+            guess: cower
+              took 4 guesses
+              1 remaining words for bgggg: ['rower']
+                guess: rower
                   took 5 guesses
-          3 remaining words for ygybb: ['power', 'cower', 'mower']
-            guess: humph
-              1 remaining words for bbbyb: ['power']
-                guess: power
-                  took 5 guesses
-              1 remaining words for bbbbb: ['cower']
-                guess: cower
-                  took 5 guesses
-              1 remaining words for bbybb: ['mower']
-                guess: mower
-                  took 5 guesses
-          5 remaining words for bbybb: ['queer', 'ember', 'upper', 'cheer', 'fever']
-            guess: humph
-              1 remaining words for bgbbb: ['queer']
+          6 remaining words for bbbbb: ['queer', 'freer', 'buyer', 'cyber', 'refer', 'fever']
+            guess: rebut
+              1 remaining words for yybyb: ['queer']
                 guess: queer
                   took 5 guesses
-              1 remaining words for bbybb: ['ember']
-                guess: ember
+              1 remaining words for yybbb: ['freer']
+                guess: freer
                   took 5 guesses
-              1 remaining words for bybyb: ['upper']
-                guess: upper
+              1 remaining words for yyyyb: ['buyer']
+                guess: buyer
                   took 5 guesses
-              1 remaining words for ybbbb: ['cheer']
-                guess: cheer
+              1 remaining words for yygbb: ['cyber']
+                guess: cyber
                   took 5 guesses
-              1 remaining words for bbbbb: ['fever']
+              1 remaining words for ggbbb: ['refer']
+                guess: refer
+                  took 5 guesses
+              1 remaining words for ygbbb: ['fever']
                 guess: fever
                   took 5 guesses
-          7 remaining words for bgybb: ['homer', 'poker', 'cover', 'joker', 'boxer', 'hover', 'mover']
-            guess: champ
-              1 remaining words for bybyb: ['homer']
-                guess: homer
+          8 remaining words for bbybb: ['foyer', 'rover', 'cover', 'joker', 'offer', 'boxer', 'corer', 'roger']
+            guess: rocky
+              1 remaining words for ygbby: ['foyer']
+                guess: foyer
                   took 5 guesses
-              1 remaining words for bbbby: ['poker']
-                guess: poker
-                  took 5 guesses
-              1 remaining words for gbbbb: ['cover']
-                guess: cover
-                  took 5 guesses
-              1 remaining words for bybbb: ['hover']
-                guess: hover
-                  took 5 guesses
-              1 remaining words for bbbyb: ['mover']
-                guess: mover
-                  took 5 guesses
-              2 remaining words for bbbbb: ['joker', 'boxer']
+              1 remaining words for ygbyb: ['joker']
                 guess: joker
                   took 5 guesses
-                  1 remaining words for bgbgg: ['boxer']
-                    guess: boxer
+              1 remaining words for yybbb: ['offer']
+                guess: offer
+                  took 5 guesses
+              1 remaining words for ygbbb: ['boxer']
+                guess: boxer
+                  took 5 guesses
+              2 remaining words for ggbbb: ['rover', 'roger']
+                guess: rover
+                  took 5 guesses
+                  1 remaining words for ggbgg: ['roger']
+                    guess: roger
+                      took 6 guesses
+              2 remaining words for ygybb: ['cover', 'corer']
+                guess: cover
+                  took 5 guesses
+                  1 remaining words for ggbgg: ['corer']
+                    guess: corer
                       took 6 guesses
   221 remaining words for bbbbb: ['humph', 'mimic', 'pound', 'booby', 'ivory', 'round', 'civic', 'corny', 'fjord', 'dowry', 'boozy', 'duchy', 'groin', 'group', 'bring', 'rhino', 'conic', 'picky', 'unify', 'drink', 'proxy', 'prick', 'crimp', 'wrung', 'humor', 'robin', 'cynic', 'vivid', 'mourn', 'nymph', 'found', 'chunk', 'forgo', 'vouch', 'donor', 'primo', 'brink', 'hydro', 'roomy', 'bobby', 'cinch', 'buggy', 'hunky', 'widow', 'irony', 'fungi', 'whoop', 'bough', 'vigor', 'howdy', 'ionic', 'quirk', 'mummy', 'foggy', 'pooch', 'hippy', 'opium', 'incur', 'funny', 'mound', 'quick', 'grind', 'jiffy', 'woozy', 'muddy', 'onion', 'couch', 'goody', 'frown', 'humid', 'crock', 'birch', 'winch', 'chump', 'moron', 'croup', 'juicy', 'crook', 'icing', 'rigor', 'poppy', 'dowdy', 'dumpy', 'horny', 'doing', 'dying', 'buddy', 'chord', 'crowd', 'privy', 'bongo', 'pudgy', 'choir', 'crick', 'furor', 'cough', 'furry', 'crump', 'dough', 'unzip', 'minor', 'murky', 'buxom', 'porch', 'dingo', 'brood', 'piggy', 'which', 'pouch', 'crown', 'woody', 'comic', 'frock', 'drunk', 'prong', 'worry', 'finch', 'groom', 'young', 'frond', 'ovoid', 'chuck', 'puppy', 'bunny', 'jumbo', 'conch', 'droop', 'rugby', 'micro', 'comfy', 'gruff', 'rocky', 'grown', 'cumin', 'rigid', 'rowdy', 'mucky', 'bingo', 'honor', 'phony', 'brick', 'vying', 'hippo', 'ruddy', 'windy', 'crumb', 'dummy', 'broom', 'hobby', 'idiom', 'chick', 'whiny', 'whiff', 'wrong', 'hunch', 'puffy', 'curio', 'churn', 'wimpy', 'juror', 'morph', 'moody', 'fuzzy', 'cubic', 'briny', 'bound', 'proud', 'gumbo', 'dizzy', 'brook', 'ninny', 'owing', 'minim', 'rough', 'wordy', 'funky', 'dingy', 'proof', 'dodgy', 'myrrh', 'prior', 'pinky', 'chock', 'forum', 'jumpy', 'giddy', 'rumor', 'wound', 'inbox', 'fizzy', 'kinky', 'grimy', 'curvy', 'biddy', 'curry', 'occur', 'pubic', 'munch', 'hurry', 'pygmy', 'wring', 'drown', 'guppy', 'union', 'druid', 'crony', 'bunch', 'known', 'punch', 'downy', 'goofy', 'gummy', 'chirp', 'gourd', 'brown', 'pinch', 'going', 'hound', 'undid', 'knock', 'condo']
     guess: cornu

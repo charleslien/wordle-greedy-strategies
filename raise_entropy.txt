@@ -641,30 +641,30 @@ guess: raise
         guess: cease
           took 3 guesses
   8 remaining words for yybgb: ['crass', 'trash', 'brass', 'crash', 'brash', 'grass', 'grasp', 'artsy']
-    guess: bachs
-      1 remaining words for byybg: ['crass']
+    guess: butch
+      1 remaining words for bbbyb: ['crass']
         guess: crass
           took 3 guesses
-      1 remaining words for bybyy: ['trash']
+      1 remaining words for bbybg: ['trash']
         guess: trash
           took 3 guesses
-      1 remaining words for gybbg: ['brass']
+      1 remaining words for gbbbb: ['brass']
         guess: brass
           took 3 guesses
-      1 remaining words for byyyy: ['crash']
+      1 remaining words for bbbyg: ['crash']
         guess: crash
           took 3 guesses
-      1 remaining words for gybyy: ['brash']
+      1 remaining words for gbbbg: ['brash']
         guess: brash
           took 3 guesses
-      1 remaining words for bybbg: ['grass']
+      1 remaining words for bbgbb: ['artsy']
+        guess: artsy
+          took 3 guesses
+      2 remaining words for bbbbb: ['grass', 'grasp']
         guess: grass
           took 3 guesses
-      2 remaining words for bybby: ['grasp', 'artsy']
-        guess: grasp
-          took 3 guesses
-          1 remaining words for bgygb: ['artsy']
-            guess: artsy
+          1 remaining words for ggggb: ['grasp']
+            guess: grasp
               took 4 guesses
   8 remaining words for gbyby: ['rivet', 'river', 'remit', 'riper', 'rider', 'relic', 'ripen', 'refit']
     guess: dempt
@@ -693,30 +693,30 @@ guess: raise
             guess: ripen
               took 4 guesses
   8 remaining words for ybbgg: ['purse', 'nurse', 'prose', 'verse', 'terse', 'curse', 'worse', 'horse']
-    guess: count
-      1 remaining words for bbybb: ['purse']
-        guess: purse
-          took 3 guesses
-      1 remaining words for bbyyb: ['nurse']
-        guess: nurse
-          took 3 guesses
+    guess: vouch
       1 remaining words for bybbb: ['prose']
         guess: prose
           took 3 guesses
-      1 remaining words for bbbbb: ['verse']
+      1 remaining words for gbbbb: ['verse']
         guess: verse
           took 3 guesses
-      1 remaining words for bbbby: ['terse']
+      1 remaining words for bbbbb: ['terse']
         guess: terse
           took 3 guesses
-      1 remaining words for gbybb: ['curse']
+      1 remaining words for bbyyb: ['curse']
         guess: curse
           took 3 guesses
-      2 remaining words for bgbbb: ['worse', 'horse']
+      1 remaining words for bgbbb: ['worse']
         guess: worse
           took 3 guesses
-          1 remaining words for bgggg: ['horse']
-            guess: horse
+      1 remaining words for bgbby: ['horse']
+        guess: horse
+          took 3 guesses
+      2 remaining words for bbybb: ['purse', 'nurse']
+        guess: purse
+          took 3 guesses
+          1 remaining words for bgggg: ['nurse']
+            guess: nurse
               took 4 guesses
   9 remaining words for bbbgy: ['flesh', 'chest', 'bless', 'guest', 'poesy', 'welsh', 'quest', 'guess', 'chess']
     guess: clogs
@@ -1962,36 +1962,44 @@ guess: raise
             guess: ficus
               took 4 guesses
   22 remaining words for bybgb: ['abyss', 'coast', 'glass', 'class', 'blast', 'clasp', 'amass', 'angst', 'smash', 'toast', 'slash', 'flash', 'clash', 'chasm', 'awash', 'boast', 'spasm', 'flask', 'swash', 'gnash', 'quash', 'stash']
-    guess: slash
-      took 2 guesses
-      1 remaining words for ybygb: ['abyss']
+    guess: shalt
+      1 remaining words for ybybb: ['abyss']
         guess: abyss
           took 3 guesses
-      1 remaining words for ybggb: ['amass']
+      1 remaining words for ybgyg: ['blast']
+        guess: blast
+          took 3 guesses
+      1 remaining words for ybgbb: ['amass']
         guess: amass
           took 3 guesses
-      1 remaining words for bbygb: ['angst']
+      1 remaining words for ybybg: ['angst']
         guess: angst
           took 3 guesses
-      1 remaining words for bbggy: ['chasm']
+      1 remaining words for gygyb: ['slash']
+        guess: slash
+          took 3 guesses
+      1 remaining words for yggbb: ['chasm']
         guess: chasm
           took 3 guesses
-      1 remaining words for gbggb: ['spasm']
+      1 remaining words for gbgbb: ['spasm']
         guess: spasm
           took 3 guesses
-      2 remaining words for ygggb: ['glass', 'class']
-        guess: glass
+      1 remaining words for gygby: ['stash']
+        guess: stash
           took 3 guesses
-          1 remaining words for bgggg: ['class']
-            guess: class
+      2 remaining words for gygbb: ['smash', 'swash']
+        guess: smash
+          took 3 guesses
+          1 remaining words for gbggg: ['swash']
+            guess: swash
               took 4 guesses
-      2 remaining words for bgggg: ['flash', 'clash']
+      2 remaining words for yygyb: ['flash', 'clash']
         guess: flash
           took 3 guesses
           1 remaining words for bgggg: ['clash']
             guess: clash
               took 4 guesses
-      3 remaining words for bbggb: ['coast', 'toast', 'boast']
+      3 remaining words for ybgbg: ['coast', 'toast', 'boast']
         guess: bench
           1 remaining words for bbbyb: ['coast']
             guess: coast
@@ -2002,29 +2010,7 @@ guess: raise
           1 remaining words for gbbbb: ['boast']
             guess: boast
               took 4 guesses
-      3 remaining words for bgggb: ['blast', 'clasp', 'flask']
-        guess: focal
-          1 remaining words for bbbyy: ['blast']
-            guess: blast
-              took 4 guesses
-          1 remaining words for bbyyy: ['clasp']
-            guess: clasp
-              took 4 guesses
-          1 remaining words for gbbyy: ['flask']
-            guess: flask
-              took 4 guesses
-      3 remaining words for gbggg: ['smash', 'swash', 'stash']
-        guess: trawl
-          1 remaining words for bbgbb: ['smash']
-            guess: smash
-              took 4 guesses
-          1 remaining words for bbgyb: ['swash']
-            guess: swash
-              took 4 guesses
-          1 remaining words for ybgbb: ['stash']
-            guess: stash
-              took 4 guesses
-      3 remaining words for bbggg: ['awash', 'gnash', 'quash']
+      3 remaining words for yygbb: ['awash', 'gnash', 'quash']
         guess: naval
           1 remaining words for bybyb: ['awash']
             guess: awash
@@ -2034,6 +2020,18 @@ guess: raise
               took 4 guesses
           1 remaining words for bybbb: ['quash']
             guess: quash
+              took 4 guesses
+      4 remaining words for ybgyb: ['glass', 'class', 'clasp', 'flask']
+        guess: class
+          took 3 guesses
+          1 remaining words for bgggg: ['glass']
+            guess: glass
+              took 4 guesses
+          1 remaining words for ggggb: ['clasp']
+            guess: clasp
+              took 4 guesses
+          1 remaining words for bgggb: ['flask']
+            guess: flask
               took 4 guesses
   23 remaining words for ybybb: ['ivory', 'groin', 'girth', 'irony', 'vigor', 'incur', 'birch', 'choir', 'minor', 'lurid', 'broil', 'micro', 'lyric', 'orbit', 'curio', 'birth', 'fruit', 'dirty', 'girly', 'mirth', 'droit', 'druid', 'intro']
     guess: glout
@@ -2499,9 +2497,12 @@ guess: raise
                 guess: graze
                   took 5 guesses
   26 remaining words for ybyby: ['fixer', 'finer', 'tiger', 'their', 'inert', 'liver', 'merit', 'inter', 'diner', 'nicer', 'fiber', 'diver', 'inner', 'infer', 'idler', 'timer', 'giver', 'wider', 'fiery', 'cider', 'piper', 'liner', 'miner', 'viper', 'filer', 'peril']
-    guess: vined
+    guess: lined
       1 remaining words for byyyb: ['inert']
         guess: inert
+          took 3 guesses
+      1 remaining words for ggbgb: ['liver']
+        guess: liver
           took 3 guesses
       1 remaining words for bgggy: ['diner']
         guess: diner
@@ -2509,26 +2510,35 @@ guess: raise
       1 remaining words for bgygb: ['nicer']
         guess: nicer
           took 3 guesses
-      1 remaining words for ygbgy: ['diver']
-        guess: diver
-          took 3 guesses
       1 remaining words for byggb: ['inner']
         guess: inner
           took 3 guesses
-      1 remaining words for bybgy: ['idler']
+      1 remaining words for yybgy: ['idler']
         guess: idler
           took 3 guesses
       1 remaining words for bgbyb: ['fiery']
         guess: fiery
           took 3 guesses
-      1 remaining words for ggbgb: ['viper']
-        guess: viper
+      1 remaining words for ggggb: ['liner']
+        guess: liner
           took 3 guesses
-      2 remaining words for ygbgb: ['liver', 'giver']
-        guess: liver
+      1 remaining words for ygbgb: ['filer']
+        guess: filer
           took 3 guesses
-          1 remaining words for bgggg: ['giver']
-            guess: giver
+      1 remaining words for yybyb: ['peril']
+        guess: peril
+          took 3 guesses
+      2 remaining words for bgggb: ['finer', 'miner']
+        guess: finer
+          took 3 guesses
+          1 remaining words for bgggg: ['miner']
+            guess: miner
+              took 4 guesses
+      2 remaining words for bybyb: ['their', 'merit']
+        guess: their
+          took 3 guesses
+          1 remaining words for ybygy: ['merit']
+            guess: merit
               took 4 guesses
       2 remaining words for byygb: ['inter', 'infer']
         guess: inter
@@ -2536,51 +2546,37 @@ guess: raise
           1 remaining words for ggbgg: ['infer']
             guess: infer
               took 4 guesses
-      2 remaining words for bgbgy: ['wider', 'cider']
+      3 remaining words for bgbgy: ['diver', 'wider', 'cider']
         guess: wider
           took 3 guesses
+          1 remaining words for bgygg: ['diver']
+            guess: diver
+              took 4 guesses
           1 remaining words for bgggg: ['cider']
             guess: cider
               took 4 guesses
-      3 remaining words for bgggb: ['finer', 'liner', 'miner']
-        guess: focal
-          1 remaining words for gbbbb: ['finer']
-            guess: finer
+      7 remaining words for bgbgb: ['fixer', 'tiger', 'fiber', 'timer', 'giver', 'piper', 'viper']
+        guess: pygmy
+          1 remaining words for bbgbb: ['tiger']
+            guess: tiger
               took 4 guesses
-          1 remaining words for bbbby: ['liner']
-            guess: liner
-              took 4 guesses
-          1 remaining words for bbbbb: ['miner']
-            guess: miner
-              took 4 guesses
-      3 remaining words for bybyb: ['their', 'merit', 'peril']
-        guess: their
-          took 3 guesses
-          1 remaining words for ybygy: ['merit']
-            guess: merit
-              took 4 guesses
-          1 remaining words for bbygy: ['peril']
-            guess: peril
-              took 4 guesses
-      6 remaining words for bgbgb: ['fixer', 'tiger', 'fiber', 'timer', 'piper', 'filer']
-        guess: blimp
-          1 remaining words for ybybb: ['fiber']
-            guess: fiber
-              took 4 guesses
-          1 remaining words for bbyyb: ['timer']
+          1 remaining words for bbbyb: ['timer']
             guess: timer
               took 4 guesses
-          1 remaining words for bbyby: ['piper']
+          1 remaining words for bbybb: ['giver']
+            guess: giver
+              took 4 guesses
+          1 remaining words for gbbbb: ['piper']
             guess: piper
               took 4 guesses
-          1 remaining words for byybb: ['filer']
-            guess: filer
+          1 remaining words for ybbbb: ['viper']
+            guess: viper
               took 4 guesses
-          2 remaining words for bbybb: ['fixer', 'tiger']
+          2 remaining words for bbbbb: ['fixer', 'fiber']
             guess: fixer
               took 4 guesses
-              1 remaining words for bgbgg: ['tiger']
-                guess: tiger
+              1 remaining words for ggbgg: ['fiber']
+                guess: fiber
                   took 5 guesses
   26 remaining words for bgbbg: ['badge', 'gauze', 'valve', 'canoe', 'lance', 'eagle', 'bathe', 'halve', 'mange', 'maple', 'gaffe', 'cache', 'value', 'table', 'dance', 'fable', 'ladle', 'maybe', 'vague', 'cable', 'lathe', 'mauve', 'payee', 'gauge', 'latte', 'haute']
     guess: gulch
@@ -2755,183 +2751,183 @@ guess: raise
                 guess: wafer
                   took 5 guesses
   28 remaining words for ybgbb: ['print', 'bring', 'drink', 'prick', 'crimp', 'primo', 'brink', 'quirk', 'grind', 'fritz', 'twirl', 'privy', 'crick', 'third', 'trick', 'flirt', 'grill', 'brick', 'briny', 'drill', 'krill', 'frill', 'drift', 'prior', 'grimy', 'wring', 'whirl', 'chirp']
-    guess: tronk
-      1 remaining words for ygbgb: ['print']
+    guess: crypt
+      1 remaining words for bgbyg: ['print']
         guess: print
           took 3 guesses
-      1 remaining words for bybbg: ['quirk']
-        guess: quirk
+      1 remaining words for ygbyb: ['prick']
+        guess: prick
           took 3 guesses
-      1 remaining words for ggbbg: ['trick']
+      1 remaining words for ggbyb: ['crimp']
+        guess: crimp
+          took 3 guesses
+      1 remaining words for bgbby: ['fritz']
+        guess: fritz
+          took 3 guesses
+      1 remaining words for bgyyb: ['privy']
+        guess: privy
+          took 3 guesses
+      1 remaining words for ggbbb: ['crick']
+        guess: crick
+          took 3 guesses
+      1 remaining words for ygbby: ['trick']
         guess: trick
           took 3 guesses
-      1 remaining words for yybbb: ['flirt']
+      1 remaining words for bybbg: ['flirt']
         guess: flirt
           took 3 guesses
-      1 remaining words for bgbby: ['krill']
-        guess: krill
+      1 remaining words for ygbbb: ['brick']
+        guess: brick
           took 3 guesses
-      2 remaining words for bgbgg: ['drink', 'brink']
-        guess: drink
+      1 remaining words for bgbbg: ['drift']
+        guess: drift
           took 3 guesses
-          1 remaining words for bgggg: ['brink']
-            guess: brink
-              took 4 guesses
-      2 remaining words for bgybb: ['primo', 'prior']
+      1 remaining words for gybyb: ['chirp']
+        guess: chirp
+          took 3 guesses
+      2 remaining words for bgbyb: ['primo', 'prior']
         guess: primo
           took 3 guesses
           1 remaining words for gggby: ['prior']
             guess: prior
               took 4 guesses
-      2 remaining words for ygbbb: ['fritz', 'drift']
-        guess: fritz
+      2 remaining words for bybbb: ['quirk', 'whirl']
+        guess: quirk
           took 3 guesses
-          1 remaining words for yggyb: ['drift']
-            guess: drift
+          1 remaining words for bbggb: ['whirl']
+            guess: whirl
               took 4 guesses
-      2 remaining words for gybbb: ['twirl', 'third']
+      2 remaining words for bybby: ['twirl', 'third']
         guess: twirl
           took 3 guesses
           1 remaining words for gbggb: ['third']
             guess: third
               took 4 guesses
-      2 remaining words for bybbb: ['whirl', 'chirp']
-        guess: whirl
+      2 remaining words for bgybb: ['briny', 'grimy']
+        guess: briny
           took 3 guesses
-          1 remaining words for bgggb: ['chirp']
-            guess: chirp
-              took 4 guesses
-      3 remaining words for bgbbg: ['prick', 'crick', 'brick']
-        guess: champ
-          1 remaining words for ybbby: ['prick']
-            guess: prick
-              took 4 guesses
-          1 remaining words for gbbbb: ['crick']
-            guess: crick
-              took 4 guesses
-          1 remaining words for ybbbb: ['brick']
-            guess: brick
-              took 4 guesses
-      4 remaining words for bgbgb: ['bring', 'grind', 'briny', 'wring']
-        guess: bring
-          took 3 guesses
-          1 remaining words for bgggy: ['grind']
-            guess: grind
-              took 4 guesses
-          1 remaining words for ggggb: ['briny']
-            guess: briny
-              took 4 guesses
-          1 remaining words for bgggg: ['wring']
-            guess: wring
-              took 4 guesses
-      6 remaining words for bgbbb: ['crimp', 'privy', 'grill', 'drill', 'frill', 'grimy']
-        guess: godly
-          1 remaining words for bbbbb: ['crimp']
-            guess: crimp
-              took 4 guesses
-          1 remaining words for bbbbg: ['privy']
-            guess: privy
-              took 4 guesses
-          1 remaining words for gbbgb: ['grill']
-            guess: grill
-              took 4 guesses
-          1 remaining words for bbygb: ['drill']
-            guess: drill
-              took 4 guesses
-          1 remaining words for bbbgb: ['frill']
-            guess: frill
-              took 4 guesses
-          1 remaining words for gbbbg: ['grimy']
+          1 remaining words for bggbg: ['grimy']
             guess: grimy
               took 4 guesses
+      9 remaining words for bgbbb: ['bring', 'drink', 'brink', 'grind', 'grill', 'drill', 'krill', 'frill', 'wring']
+        guess: dwang
+          1 remaining words for bbbgg: ['bring']
+            guess: bring
+              took 4 guesses
+          1 remaining words for gbbgb: ['drink']
+            guess: drink
+              took 4 guesses
+          1 remaining words for bbbgb: ['brink']
+            guess: brink
+              took 4 guesses
+          1 remaining words for ybbgy: ['grind']
+            guess: grind
+              took 4 guesses
+          1 remaining words for bbbby: ['grill']
+            guess: grill
+              took 4 guesses
+          1 remaining words for gbbbb: ['drill']
+            guess: drill
+              took 4 guesses
+          1 remaining words for bybgg: ['wring']
+            guess: wring
+              took 4 guesses
+          2 remaining words for bbbbb: ['krill', 'frill']
+            guess: krill
+              took 4 guesses
+              1 remaining words for bgggg: ['frill']
+                guess: frill
+                  took 5 guesses
   29 remaining words for bbgyb: ['stink', 'spicy', 'using', 'skill', 'swill', 'spill', 'stick', 'sting', 'skimp', 'spilt', 'slick', 'still', 'swift', 'spiny', 'scion', 'stilt', 'slimy', 'suing', 'stint', 'shift', 'shiny', 'skiff', 'swing', 'stiff', 'sniff', 'sling', 'spiky', 'smith', 'slink']
-    guess: plunk
-      1 remaining words for bbbgg: ['stink']
+    guess: knelt
+      1 remaining words for yybby: ['stink']
         guess: stink
           took 3 guesses
-      1 remaining words for ybbbb: ['spicy']
+      1 remaining words for bbbbb: ['spicy']
         guess: spicy
           took 3 guesses
-      1 remaining words for bybby: ['skill']
+      1 remaining words for ybbgb: ['skill']
         guess: skill
           took 3 guesses
-      1 remaining words for bbbbg: ['stick']
+      1 remaining words for ybbby: ['stick']
         guess: stick
           took 3 guesses
-      1 remaining words for bgbbg: ['slick']
-        guess: slick
-          took 3 guesses
-      1 remaining words for ybbgb: ['spiny']
-        guess: spiny
-          took 3 guesses
-      1 remaining words for bgbbb: ['slimy']
-        guess: slimy
-          took 3 guesses
-      1 remaining words for bbbby: ['skiff']
-        guess: skiff
-          took 3 guesses
-      1 remaining words for bgbgb: ['sling']
-        guess: sling
-          took 3 guesses
-      1 remaining words for bgbgg: ['slink']
-        guess: slink
-          took 3 guesses
-      2 remaining words for bbygb: ['using', 'suing']
-        guess: using
-          took 3 guesses
-          1 remaining words for yyggg: ['suing']
-            guess: suing
-              took 4 guesses
-      2 remaining words for yybbb: ['spill', 'spilt']
-        guess: spill
-          took 3 guesses
-          1 remaining words for ggggb: ['spilt']
-            guess: spilt
-              took 4 guesses
-      2 remaining words for ybbby: ['skimp', 'spiky']
-        guess: skimp
-          took 3 guesses
-          1 remaining words for gygby: ['spiky']
-            guess: spiky
-              took 4 guesses
-      2 remaining words for bbbyb: ['scion', 'sniff']
-        guess: scion
-          took 3 guesses
-          1 remaining words for gbgby: ['sniff']
-            guess: sniff
-              took 4 guesses
-      3 remaining words for bybbb: ['swill', 'still', 'stilt']
-        guess: swill
-          took 3 guesses
-          1 remaining words for gbggg: ['still']
-            guess: still
-              took 4 guesses
-          1 remaining words for gbggb: ['stilt']
-            guess: stilt
-              took 4 guesses
-      4 remaining words for bbbgb: ['sting', 'stint', 'shiny', 'swing']
+      1 remaining words for bybby: ['sting']
         guess: sting
           took 3 guesses
-          1 remaining words for ggggb: ['stint']
-            guess: stint
+      1 remaining words for ybbyb: ['slick']
+        guess: slick
+          took 3 guesses
+      1 remaining words for bbbgy: ['still']
+        guess: still
+          took 3 guesses
+      1 remaining words for bbbyb: ['slimy']
+        guess: slimy
+          took 3 guesses
+      1 remaining words for bybbg: ['stint']
+        guess: stint
+          took 3 guesses
+      1 remaining words for bgbbb: ['sniff']
+        guess: sniff
+          took 3 guesses
+      1 remaining words for bybyb: ['sling']
+        guess: sling
+          took 3 guesses
+      1 remaining words for yybyb: ['slink']
+        guess: slink
+          took 3 guesses
+      2 remaining words for bbbgb: ['swill', 'spill']
+        guess: swill
+          took 3 guesses
+          1 remaining words for gbggg: ['spill']
+            guess: spill
               took 4 guesses
-          1 remaining words for gbggb: ['shiny']
-            guess: shiny
+      2 remaining words for bbbgg: ['spilt', 'stilt']
+        guess: spilt
+          took 3 guesses
+          1 remaining words for gbggg: ['stilt']
+            guess: stilt
               took 4 guesses
-          1 remaining words for gbggg: ['swing']
-            guess: swing
-              took 4 guesses
-      4 remaining words for bbbbb: ['swift', 'shift', 'stiff', 'smith']
+      2 remaining words for bbbbg: ['swift', 'shift']
         guess: swift
           took 3 guesses
           1 remaining words for gbggg: ['shift']
             guess: shift
               took 4 guesses
-          1 remaining words for gbggy: ['stiff']
-            guess: stiff
-              took 4 guesses
-          1 remaining words for gbgby: ['smith']
+      2 remaining words for bbbby: ['stiff', 'smith']
+        guess: stiff
+          took 3 guesses
+          1 remaining words for gygbb: ['smith']
             guess: smith
+              took 4 guesses
+      3 remaining words for ybbbb: ['skimp', 'skiff', 'spiky']
+        guess: skimp
+          took 3 guesses
+          1 remaining words for gggbb: ['skiff']
+            guess: skiff
+              took 4 guesses
+          1 remaining words for gygby: ['spiky']
+            guess: spiky
+              took 4 guesses
+      6 remaining words for bybbb: ['using', 'spiny', 'scion', 'suing', 'shiny', 'swing']
+        guess: ought
+          1 remaining words for byybb: ['using']
+            guess: using
+              took 4 guesses
+          1 remaining words for bbbbb: ['spiny']
+            guess: spiny
+              took 4 guesses
+          1 remaining words for ybbbb: ['scion']
+            guess: scion
+              took 4 guesses
+          1 remaining words for bgybb: ['suing']
+            guess: suing
+              took 4 guesses
+          1 remaining words for bbbyb: ['shiny']
+            guess: shiny
+              took 4 guesses
+          1 remaining words for bbybb: ['swing']
+            guess: swing
               took 4 guesses
   34 remaining words for yybby: ['yearn', 'great', 'break', 'weary', 'creak', 'treat', 'dream', 'avert', 'cream', 'heart', 'zebra', 'tread', 'arena', 'pearl', 'bread', 'freak', 'beard', 'learn', 'cedar', 'clear', 'after', 'dread', 'alter', 'alert', 'debar', 'terra', 'teary', 'heard', 'wreak', 'opera', 'amber', 'anger', 'feral', 'extra']
     guess: blert
@@ -4577,256 +4573,256 @@ guess: raise
             guess: abhor
               took 4 guesses
   80 remaining words for bbbyb: ['stool', 'stout', 'lusty', 'slump', 'focus', 'snout', 'shown', 'slung', 'showy', 'stomp', 'sooth', 'soggy', 'sloth', 'shock', 'musty', 'stuck', 'study', 'gusty', 'gusto', 'sunny', 'pushy', 'snuck', 'spout', 'musky', 'stung', 'shook', 'sound', 'shunt', 'bosom', 'stood', 'stony', 'husky', 'bushy', 'swoon', 'snuff', 'snoop', 'south', 'skulk', 'bonus', 'stunt', 'shyly', 'shuck', 'stock', 'locus', 'shoot', 'sulky', 'skunk', 'smock', 'synod', 'skull', 'dusty', 'swung', 'spunk', 'scold', 'sooty', 'smoky', 'humus', 'stump', 'spoof', 'spoon', 'spool', 'scoop', 'lupus', 'dusky', 'scoff', 'mushy', 'swoop', 'shout', 'sloop', 'scowl', 'scout', 'slunk', 'mucus', 'spook', 'slyly', 'stunk', 'stuff', 'stoop', 'sully', 'snowy']
-    guess: poynt
-      1 remaining words for bybyg: ['snout']
-        guess: snout
+    guess: pluot
+      1 remaining words for bybgy: ['stool']
+        guess: stool
           took 3 guesses
-      1 remaining words for bgybb: ['soggy']
-        guess: soggy
+      1 remaining words for byyby: ['lusty']
+        guess: lusty
           took 3 guesses
-      1 remaining words for bbygb: ['sunny']
-        guess: sunny
+      1 remaining words for yggbb: ['slump']
+        guess: slump
+          took 3 guesses
+      1 remaining words for ybbyy: ['stomp']
+        guess: stomp
+          took 3 guesses
+      1 remaining words for bgbyy: ['sloth']
+        guess: sloth
+          took 3 guesses
+      1 remaining words for bbyyy: ['gusto']
+        guess: gusto
           took 3 guesses
       1 remaining words for gbybb: ['pushy']
         guess: pushy
           took 3 guesses
-      1 remaining words for yybbg: ['spout']
+      1 remaining words for ybyyg: ['spout']
         guess: spout
           took 3 guesses
-      1 remaining words for bgbgb: ['sound']
+      1 remaining words for bbgyb: ['sound']
         guess: sound
           took 3 guesses
-      1 remaining words for byygy: ['stony']
-        guess: stony
+      1 remaining words for bbbgy: ['stood']
+        guess: stood
           took 3 guesses
-      1 remaining words for bgbyb: ['bonus']
-        guess: bonus
+      1 remaining words for bbgyy: ['south']
+        guess: south
           took 3 guesses
-      1 remaining words for ybbgb: ['spunk']
+      1 remaining words for bybbb: ['shyly']
+        guess: shyly
+          took 3 guesses
+      1 remaining words for byyyb: ['locus']
+        guess: locus
+          took 3 guesses
+      1 remaining words for bbbgg: ['shoot']
+        guess: shoot
+          took 3 guesses
+      1 remaining words for ybgbb: ['spunk']
         guess: spunk
           took 3 guesses
-      1 remaining words for bgyby: ['sooty']
-        guess: sooty
-          took 3 guesses
-      1 remaining words for ybbby: ['stump']
+      1 remaining words for ybgby: ['stump']
         guess: stump
           took 3 guesses
-      2 remaining words for ybbbb: ['slump', 'lupus']
-        guess: slump
+      1 remaining words for yybgb: ['spool']
+        guess: spool
           took 3 guesses
-          1 remaining words for yyyby: ['lupus']
-            guess: lupus
-              took 4 guesses
-      2 remaining words for bybyb: ['shown', 'swoon']
-        guess: shown
+      1 remaining words for yyybb: ['lupus']
+        guess: lupus
           took 3 guesses
-          1 remaining words for gbgyg: ['swoon']
-            guess: swoon
-              took 4 guesses
-      2 remaining words for byybb: ['showy', 'smoky']
-        guess: showy
+      1 remaining words for ygbgb: ['sloop']
+        guess: sloop
           took 3 guesses
-          1 remaining words for gbgbg: ['smoky']
-            guess: smoky
-              took 4 guesses
-      2 remaining words for yybby: ['stomp', 'stoop']
-        guess: stomp
+      1 remaining words for bgbbb: ['slyly']
+        guess: slyly
           took 3 guesses
-          1 remaining words for gggbg: ['stoop']
-            guess: stoop
-              took 4 guesses
-      2 remaining words for bgbby: ['sooth', 'south']
-        guess: sooth
+      1 remaining words for ybbgy: ['stoop']
+        guess: stoop
           took 3 guesses
-          1 remaining words for ggbgg: ['south']
-            guess: south
-              took 4 guesses
-      2 remaining words for bbbby: ['stuck', 'stuff']
-        guess: stuck
+      2 remaining words for bbyyb: ['focus', 'bonus']
+        guess: focus
           took 3 guesses
-          1 remaining words for gggbb: ['stuff']
-            guess: stuff
+          1 remaining words for bgbgg: ['bonus']
+            guess: bonus
               took 4 guesses
-      2 remaining words for bbbyb: ['snuck', 'snuff']
-        guess: snuck
+      2 remaining words for bggbb: ['slung', 'slunk']
+        guess: slung
           took 3 guesses
-          1 remaining words for gggbb: ['snuff']
-            guess: snuff
+          1 remaining words for ggggb: ['slunk']
+            guess: slunk
               took 4 guesses
-      2 remaining words for bbbgy: ['stung', 'stunk']
-        guess: stung
-          took 3 guesses
-          1 remaining words for ggggb: ['stunk']
-            guess: stunk
-              took 4 guesses
-      2 remaining words for bbbgg: ['shunt', 'stunt']
+      2 remaining words for bbgbg: ['shunt', 'stunt']
         guess: shunt
           took 3 guesses
           1 remaining words for gbggg: ['stunt']
             guess: stunt
               took 4 guesses
-      2 remaining words for yybyb: ['snoop', 'spoon']
-        guess: snoop
+      2 remaining words for bygbb: ['skulk', 'skull']
+        guess: skulk
           took 3 guesses
-          1 remaining words for gyggy: ['spoon']
-            guess: spoon
+          1 remaining words for ggggb: ['skull']
+            guess: skull
               took 4 guesses
-      2 remaining words for bbgbb: ['shyly', 'slyly']
-        guess: shyly
+      2 remaining words for byybb: ['sulky', 'sully']
+        guess: sulky
           took 3 guesses
-          1 remaining words for gbggg: ['slyly']
-            guess: slyly
+          1 remaining words for gggbg: ['sully']
+            guess: sully
               took 4 guesses
-      2 remaining words for byyyb: ['synod', 'snowy']
-        guess: synod
+      2 remaining words for bybyb: ['scold', 'scowl']
+        guess: scold
           took 3 guesses
-          1 remaining words for gyyyb: ['snowy']
-            guess: snowy
+          1 remaining words for gggyb: ['scowl']
+            guess: scowl
               took 4 guesses
-      3 remaining words for bgbbb: ['focus', 'bosom', 'locus']
-        guess: focus
-          took 3 guesses
-          1 remaining words for bgbby: ['bosom']
-            guess: bosom
+      3 remaining words for bbyby: ['musty', 'gusty', 'dusty']
+        guess: model
+          1 remaining words for gbbbb: ['musty']
+            guess: musty
               took 4 guesses
-          1 remaining words for bgggg: ['locus']
-            guess: locus
+          1 remaining words for bbbbb: ['gusty']
+            guess: gusty
               took 4 guesses
-      4 remaining words for bybbg: ['stout', 'shoot', 'shout', 'scout']
-        guess: dutch
-          1 remaining words for byybb: ['stout']
+          1 remaining words for bbybb: ['dusty']
+            guess: dusty
+              took 4 guesses
+      4 remaining words for bbyyg: ['stout', 'snout', 'shout', 'scout']
+        guess: bench
+          1 remaining words for bbbbb: ['stout']
             guess: stout
               took 4 guesses
-          1 remaining words for bbyby: ['shoot']
-            guess: shoot
+          1 remaining words for bbybb: ['snout']
+            guess: snout
               took 4 guesses
-          1 remaining words for byyby: ['shout']
+          1 remaining words for bbbby: ['shout']
             guess: shout
               took 4 guesses
-          1 remaining words for byyyb: ['scout']
+          1 remaining words for bbbyb: ['scout']
             guess: scout
               took 4 guesses
-      4 remaining words for bbbgb: ['slung', 'skunk', 'swung', 'slunk']
-        guess: slung
+      4 remaining words for bbbyy: ['sooth', 'stony', 'stock', 'sooty']
+        guess: stony
           took 3 guesses
-          1 remaining words for gbggb: ['skunk']
-            guess: skunk
-              took 4 guesses
-          1 remaining words for gbggg: ['swung']
-            guess: swung
-              took 4 guesses
-          1 remaining words for ggggb: ['slunk']
-            guess: slunk
-              took 4 guesses
-      5 remaining words for bybby: ['stool', 'sloth', 'gusto', 'stood', 'stock']
-        guess: stool
-          took 3 guesses
-          1 remaining words for gygby: ['sloth']
-            guess: sloth
-              took 4 guesses
-          1 remaining words for yyybb: ['gusto']
-            guess: gusto
-              took 4 guesses
-          1 remaining words for ggggb: ['stood']
-            guess: stood
+          1 remaining words for gygbb: ['sooth']
+            guess: sooth
               took 4 guesses
           1 remaining words for gggbb: ['stock']
             guess: stock
               took 4 guesses
-      5 remaining words for bbyby: ['lusty', 'musty', 'study', 'gusty', 'dusty']
-        guess: guild
-          1 remaining words for bgbyb: ['lusty']
-            guess: lusty
+          1 remaining words for gygbg: ['sooty']
+            guess: sooty
               took 4 guesses
-          1 remaining words for bgbbb: ['musty']
-            guess: musty
+      4 remaining words for bbbgb: ['shook', 'bosom', 'swoon', 'synod']
+        guess: shook
+          took 3 guesses
+          1 remaining words for ybygb: ['bosom']
+            guess: bosom
               took 4 guesses
-          1 remaining words for bybby: ['study']
+          1 remaining words for gbggb: ['swoon']
+            guess: swoon
+              took 4 guesses
+          1 remaining words for gbbgb: ['synod']
+            guess: synod
+              took 4 guesses
+      5 remaining words for bbgby: ['stuck', 'study', 'stung', 'stunk', 'stuff']
+        guess: drink
+          1 remaining words for bbbbg: ['stuck']
+            guess: stuck
+              took 4 guesses
+          1 remaining words for ybbbb: ['study']
             guess: study
               took 4 guesses
-          1 remaining words for ggbbb: ['gusty']
-            guess: gusty
+          1 remaining words for bbbgb: ['stung']
+            guess: stung
               took 4 guesses
-          1 remaining words for bgbby: ['dusty']
-            guess: dusty
+          1 remaining words for bbbgg: ['stunk']
+            guess: stunk
               took 4 guesses
-      5 remaining words for bbbbb: ['skulk', 'shuck', 'skull', 'humus', 'mucus']
-        guess: shuck
+          1 remaining words for bbbbb: ['stuff']
+            guess: stuff
+              took 4 guesses
+      5 remaining words for bbgbb: ['snuck', 'snuff', 'shuck', 'skunk', 'swung']
+        guess: snuck
           took 3 guesses
-          1 remaining words for gbgbg: ['skulk']
-            guess: skulk
+          1 remaining words for gggbb: ['snuff']
+            guess: snuff
               took 4 guesses
-          1 remaining words for gbgby: ['skull']
-            guess: skull
+          1 remaining words for gbggg: ['shuck']
+            guess: shuck
               took 4 guesses
-          1 remaining words for yyybb: ['humus']
-            guess: humus
+          1 remaining words for gygbg: ['skunk']
+            guess: skunk
               took 4 guesses
-          1 remaining words for ybyyb: ['mucus']
-            guess: mucus
+          1 remaining words for gygbb: ['swung']
+            guess: swung
               took 4 guesses
-      6 remaining words for bybbb: ['shock', 'shook', 'smock', 'scold', 'scoff', 'scowl']
-        guess: chalk
-          1 remaining words for ygbbg: ['shock']
-            guess: shock
+      6 remaining words for ybbgb: ['snoop', 'spoof', 'spoon', 'scoop', 'swoop', 'spook']
+        guess: clown
+          1 remaining words for bbgby: ['snoop']
+            guess: snoop
               took 4 guesses
-          1 remaining words for bgbbg: ['shook']
-            guess: shook
+          1 remaining words for bbgbg: ['spoon']
+            guess: spoon
               took 4 guesses
-          1 remaining words for ybbbg: ['smock']
-            guess: smock
-              took 4 guesses
-          1 remaining words for ybbgb: ['scold']
-            guess: scold
-              took 4 guesses
-          1 remaining words for ybbbb: ['scoff']
-            guess: scoff
-              took 4 guesses
-          1 remaining words for ybbyb: ['scowl']
-            guess: scowl
-              took 4 guesses
-      6 remaining words for yybbb: ['spoof', 'spool', 'scoop', 'swoop', 'sloop', 'spook']
-        guess: flick
-          1 remaining words for ybbbb: ['spoof']
-            guess: spoof
-              took 4 guesses
-          1 remaining words for bybbb: ['spool']
-            guess: spool
-              took 4 guesses
-          1 remaining words for bbbyb: ['scoop']
+          1 remaining words for ybgbb: ['scoop']
             guess: scoop
               took 4 guesses
-          1 remaining words for bbbbb: ['swoop']
+          1 remaining words for bbgyb: ['swoop']
             guess: swoop
               took 4 guesses
-          1 remaining words for bgbbb: ['sloop']
-            guess: sloop
+          2 remaining words for bbgbb: ['spoof', 'spook']
+            guess: spoof
               took 4 guesses
-          1 remaining words for bbbbg: ['spook']
-            guess: spook
+              1 remaining words for ggggb: ['spook']
+                guess: spook
+                  took 5 guesses
+      8 remaining words for bbbyb: ['shown', 'showy', 'soggy', 'shock', 'smock', 'smoky', 'scoff', 'snowy']
+        guess: nymph
+          1 remaining words for ybbby: ['shown']
+            guess: shown
               took 4 guesses
-      7 remaining words for bbybb: ['musky', 'husky', 'bushy', 'sulky', 'dusky', 'mushy', 'sully']
-        guess: haulm
-          1 remaining words for bbyby: ['musky']
+          1 remaining words for bybby: ['showy']
+            guess: showy
+              took 4 guesses
+          1 remaining words for bybbb: ['soggy']
+            guess: soggy
+              took 4 guesses
+          1 remaining words for bbbby: ['shock']
+            guess: shock
+              took 4 guesses
+          1 remaining words for bbybb: ['smock']
+            guess: smock
+              took 4 guesses
+          1 remaining words for byybb: ['smoky']
+            guess: smoky
+              took 4 guesses
+          1 remaining words for bbbbb: ['scoff']
+            guess: scoff
+              took 4 guesses
+          1 remaining words for yybbb: ['snowy']
+            guess: snowy
+              took 4 guesses
+      8 remaining words for bbybb: ['sunny', 'musky', 'husky', 'bushy', 'humus', 'dusky', 'mushy', 'mucus']
+        guess: mushy
+          took 3 guesses
+          1 remaining words for bgybg: ['sunny']
+            guess: sunny
+              took 4 guesses
+          1 remaining words for gggbg: ['musky']
             guess: musky
               took 4 guesses
-          1 remaining words for gbybb: ['husky']
+          1 remaining words for bggyg: ['husky']
             guess: husky
               took 4 guesses
-          1 remaining words for ybybb: ['bushy']
+          1 remaining words for bgggg: ['bushy']
             guess: bushy
               took 4 guesses
-          1 remaining words for bbyyb: ['sulky']
-            guess: sulky
+          1 remaining words for ygyyb: ['humus']
+            guess: humus
               took 4 guesses
-          1 remaining words for bbybb: ['dusky']
+          1 remaining words for bggbg: ['dusky']
             guess: dusky
               took 4 guesses
-          1 remaining words for ybyby: ['mushy']
-            guess: mushy
-              took 4 guesses
-          1 remaining words for bbygb: ['sully']
-            guess: sully
+          1 remaining words for ggybb: ['mucus']
+            guess: mucus
               took 4 guesses
   91 remaining words for bgbbb: ['naval', 'batty', 'gamma', 'hatch', 'jaunt', 'badly', 'gaudy', 'baton', 'banal', 'tangy', 'caulk', 'watch', 'natal', 'canny', 'bayou', 'cacao', 'gawky', 'madam', 'wacky', 'patty', 'taunt', 'dandy', 'catch', 'fault', 'waltz', 'fanny', 'vault', 'daddy', 'pagan', 'manga', 'nanny', 'handy', 'lanky', 'caddy', 'macaw', 'candy', 'gayly', 'dally', 'tatty', 'laugh', 'wagon', 'fatty', 'fancy', 'gaunt', 'datum', 'canon', 'baggy', 'mammy', 'havoc', 'kappa', 'haunt', 'bawdy', 'latch', 'tawny', 'gamut', 'canal', 'mango', 'balmy', 'tacky', 'patch', 'tabby', 'macho', 'tally', 'caput', 'jazzy', 'fatal', 'taffy', 'talon', 'bacon', 'papal', 'taboo', 'paddy', 'mambo', 'yacht', 'cabal', 'tango', 'kayak', 'banjo', 'mamma', 'cabby', 'batch', 'madly', 'magma', 'fauna', 'happy', 'daunt', 'mangy', 'manly', 'vaunt', 'match', 'catty']
     guess: cyton
@@ -4959,15 +4955,15 @@ guess: raise
             guess: fauna
               took 4 guesses
       4 remaining words for bygbb: ['batty', 'patty', 'tatty', 'fatty']
-        guess: blimp
-          1 remaining words for gbbbb: ['batty']
+        guess: thumb
+          1 remaining words for ybbby: ['batty']
             guess: batty
               took 4 guesses
-          1 remaining words for bbbby: ['patty']
-            guess: patty
-              took 4 guesses
-          2 remaining words for bbbbb: ['tatty', 'fatty']
+          1 remaining words for gbbbb: ['tatty']
             guess: tatty
+              took 4 guesses
+          2 remaining words for ybbbb: ['patty', 'fatty']
+            guess: patty
               took 4 guesses
               1 remaining words for bgggg: ['fatty']
                 guess: fatty
@@ -5705,21 +5701,21 @@ guess: raise
                 guess: cower
                   took 5 guesses
           7 remaining words for bgbbb: ['goner', 'poker', 'lover', 'cover', 'joker', 'hover', 'corer']
-            guess: punch
-              1 remaining words for bbgbb: ['goner']
-                guess: goner
-                  took 5 guesses
-              1 remaining words for gbbbb: ['poker']
+            guess: pluck
+              1 remaining words for gbbby: ['poker']
                 guess: poker
                   took 5 guesses
-              1 remaining words for bbbby: ['hover']
-                guess: hover
-                  took 5 guesses
-              2 remaining words for bbbbb: ['lover', 'joker']
+              1 remaining words for bybbb: ['lover']
                 guess: lover
                   took 5 guesses
-                  1 remaining words for bgbgg: ['joker']
-                    guess: joker
+              1 remaining words for bbbby: ['joker']
+                guess: joker
+                  took 5 guesses
+              2 remaining words for bbbbb: ['goner', 'hover']
+                guess: goner
+                  took 5 guesses
+                  1 remaining words for bgbgg: ['hover']
+                    guess: hover
                       took 6 guesses
               2 remaining words for bbbyb: ['cover', 'corer']
                 guess: cover
@@ -7154,46 +7150,48 @@ guess: raise
             guess: flung
               took 4 guesses
       14 remaining words for bbybb: ['loopy', 'knoll', 'lowly', 'flood', 'blown', 'lofty', 'godly', 'lobby', 'flown', 'blond', 'nobly', 'oddly', 'blood', 'wooly']
-        guess: blown
-          took 3 guesses
-          1 remaining words for bygbb: ['loopy']
+        guess: bools
+          1 remaining words for bggyb: ['loopy']
             guess: loopy
               took 4 guesses
-          1 remaining words for bygby: ['knoll']
+          1 remaining words for bbggb: ['knoll']
             guess: knoll
               took 4 guesses
-          1 remaining words for byyyb: ['lowly']
-            guess: lowly
-              took 4 guesses
-          1 remaining words for bggbb: ['flood']
+          1 remaining words for bygyb: ['flood']
             guess: flood
               took 4 guesses
-          1 remaining words for yyybb: ['lobby']
-            guess: lobby
-              took 4 guesses
-          1 remaining words for bgggg: ['flown']
-            guess: flown
-              took 4 guesses
-          1 remaining words for gggby: ['blond']
-            guess: blond
-              took 4 guesses
-          1 remaining words for yyyby: ['nobly']
-            guess: nobly
-              took 4 guesses
-          1 remaining words for gggbb: ['blood']
-            guess: blood
-              took 4 guesses
-          1 remaining words for bygyb: ['wooly']
-            guess: wooly
-              took 4 guesses
-          3 remaining words for byybb: ['lofty', 'godly', 'oddly']
+          1 remaining words for bgbyb: ['lofty']
             guess: lofty
               took 4 guesses
-              1 remaining words for ygbbg: ['godly']
+          1 remaining words for ygbyb: ['lobby']
+            guess: lobby
+              took 4 guesses
+          1 remaining words for bbgyb: ['flown']
+            guess: flown
+              took 4 guesses
+          1 remaining words for ygbgb: ['nobly']
+            guess: nobly
+              took 4 guesses
+          1 remaining words for bybgb: ['oddly']
+            guess: oddly
+              took 4 guesses
+          1 remaining words for gygyb: ['blood']
+            guess: blood
+              took 4 guesses
+          1 remaining words for bgggb: ['wooly']
+            guess: wooly
+              took 4 guesses
+          2 remaining words for bgbgb: ['lowly', 'godly']
+            guess: lowly
+              took 4 guesses
+              1 remaining words for bgbgg: ['godly']
                 guess: godly
                   took 5 guesses
-              1 remaining words for yybbg: ['oddly']
-                guess: oddly
+          2 remaining words for gbgyb: ['blown', 'blond']
+            guess: blown
+              took 4 guesses
+              1 remaining words for gggby: ['blond']
+                guess: blond
                   took 5 guesses
       15 remaining words for bgbbb: ['outdo', 'buggy', 'funny', 'buddy', 'pudgy', 'outgo', 'putty', 'junto', 'puppy', 'bunny', 'puffy', 'fuzzy', 'funky', 'nutty', 'guppy']
         guess: fango
